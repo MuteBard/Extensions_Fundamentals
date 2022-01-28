@@ -24,6 +24,8 @@
 
 ![](../images/DEV-06/DEV-06-A3.png)
 
+![](../images/DEV-06/DEV-06-A4.png)
+
 ## Background Scripts vs Content Scripts
 
     A content script is a part of your extension that runs in context of a particular web page.
