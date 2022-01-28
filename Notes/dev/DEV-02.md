@@ -1,7 +1,10 @@
-# DEV-02,
+# DEV-02, What do Extensions do?
 
-## Tags: []
+## Tags: [basics]
 
-### Link:[<>]
+## Link: [<https://www.udemy.com/course/google-chrome-extensions/learn/lecture/17780288#overview>]
 
-![](../images/DEV-02/DEV-02-A1.png)
+## What can they do?
+
+    They can modify web content users see
+    extend and change the behavior of the browser itself

@@ -1,0 +1,15 @@
+{
+    "name": "Style Color",
+    "version": "1.0",
+    "description": "Change Body Color",
+    "content_scripts": [
+        {
+            "matches": ["*://*.google.com/*"],
+            "js": ["styleColor.js"]
+        }
+    ],
+    "manifest_version":2,
+    "permissions": [
+        "*://duckduckgo.com/html/*"
+    ]
+}
