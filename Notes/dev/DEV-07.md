@@ -17,7 +17,7 @@
 
 ## Permissions
 
-![](../images/DEV-07/DEV-07-A1.png)
+![](../images/DEV-07/DEV-07-A2.png)
 
     Used to request special powers for your extension.
     The browser will inform the user at install time that the extension is requesting certain privileges, and ask them to confirm that they are happy to grant these privileges.

@@ -22,7 +22,7 @@
 
 ## What does a reference to a content script look like?
 
-![](../images/DEV-06/DEV-06-A2.png)
+![](../images/DEV-06/DEV-06-A3.png)
 
 ## Background Scripts vs Content Scripts
 
